@@ -1,4 +1,15 @@
 body {
     font-weight: lighter;
     font-family: sans-serif;
+    background-image: url("https://pbblogassets.s3.amazonaws.com/uploads/2015/08/Audio-Waveforms-Featued-Image.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#div2 {
+    background-color: navy;
+    opacity: 0.8;
+    width: 1440px;
+    height: 900px;
 }
